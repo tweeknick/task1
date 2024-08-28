@@ -1,0 +1,5 @@
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Release\net8.0-windows\publish\WinBankID.exe
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Release\net8.0-windows\publish\WinBankID.dll
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Release\net8.0-windows\publish\WinBankID.deps.json
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Release\net8.0-windows\publish\WinBankID.runtimeconfig.json
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Release\net8.0-windows\publish\WinBankID.pdb

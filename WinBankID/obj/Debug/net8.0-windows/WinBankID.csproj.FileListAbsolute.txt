@@ -1,0 +1,16 @@
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.Form1.resources
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.csproj.GenerateResource.cache
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.AssemblyInfoInputs.cache
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.AssemblyInfo.cs
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.csproj.CoreCompileInputs.cache
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Debug\net8.0-windows\WinBankID.exe
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Debug\net8.0-windows\WinBankID.deps.json
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Debug\net8.0-windows\WinBankID.runtimeconfig.json
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Debug\net8.0-windows\WinBankID.dll
+C:\Users\nickv\source\repos\WinBankID\WinBankID\bin\Debug\net8.0-windows\WinBankID.pdb
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.dll
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\refint\WinBankID.dll
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.pdb
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\WinBankID.genruntimeconfig.cache
+C:\Users\nickv\source\repos\WinBankID\WinBankID\obj\Debug\net8.0-windows\ref\WinBankID.dll
